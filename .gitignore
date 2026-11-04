@@ -75,3 +75,7 @@ Testing/
 
 *SimpleEngine/intermediate/
 *SimpleEngine/lib/
+
+!SimpleEngine/external/GLFW/lib/*
+!SimpleEngine/external/dxc/lib/*
+!SimpleEngine/external/d3d12/lib/*
