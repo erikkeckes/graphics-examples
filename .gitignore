@@ -66,3 +66,12 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+*.vs/
+
+*wind_demo/intermediate/
+*wind_demo/executable/
+*wind_demo/ShaderCache
+
+*SimpleEngine/intermediate/
+*SimpleEngine/lib/
